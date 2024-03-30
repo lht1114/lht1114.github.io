@@ -1,0 +1,1 @@
+import{u as e,j as t}from"./index-CU0OWVVj.js";function a(){const s=e(r=>r.userInfo.userInfo);return t.jsxs("div",{children:[t.jsxs("h1",{children:["下午好，",(s==null?void 0:s.nickname)||"网易云音乐用户"]}),t.jsx("img",{src:s==null?void 0:s.avatarUrl,width:"400",alt:""})]})}export{a as default};
